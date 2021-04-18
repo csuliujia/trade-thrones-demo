@@ -1,7 +1,6 @@
-package com.alibaba.rt.thrones.spi.app;
+package com.alibaba.rt.thrones.spi.application;
 
 import com.alibaba.rt.thrones.spi.Fruit;
-import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import sun.misc.Service;
 
